@@ -1,0 +1,96 @@
+html {
+  height: 100%;
+}
+
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 5px;
+  height: 100%;
+}
+header {
+  background-color: #30965A;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  display: block;
+  width: 100%;
+}
+nav {
+  line-height: 30px;
+  background-color: white;
+  color: black;
+  width: 100%;
+  display: inline-block;
+  padding: 5px;
+  font-size: 20px;
+}
+nav ul li {
+  display: inline-block;
+  text-align: center;
+  padding-left: 70px;
+  padding-right: 70px;
+  font-size: 30px;
+}
+nav ul {
+  text-align: center;
+}
+p {
+  font-size: 30px;
+  font-align: center;
+}
+.welder {
+  width: 300px;
+}
+.painter {
+  height: 300px;
+}
+.jewelry {
+  height: 300px;
+}
+.seamstress {
+  width: 300px;
+}
+#toptwo {
+  height: 40%;
+  width: 100%;
+}
+#bottomtwo {
+  height: 40%;
+  width: 100%;
+}
+#matt {
+  /* float: left; */
+  line-height: 30px;
+  background-color: #cfc6c9;
+  display: inline-block;
+  padding: 10px;
+  font-size: 25px;
+}
+#lana {
+  /* float: right; */
+  line-height: 30px;
+  background-color: #9e9799;
+  display: inline-block;
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 20px;
+}
+#sanitta {
+  /* float: left; */
+  line-height: 30px;
+  background-color: #cfc6c9;
+  display: inline-block;
+  padding: 10px;
+  font-size: 25px;
+}
+#amy {
+  /* float: right; */
+  line-height: 30px;
+  background-color: #9e9799;
+  display: inline-block;
+  padding: 10px;
+  font-size: 25px;
+  margin-top: 20px;
+}
