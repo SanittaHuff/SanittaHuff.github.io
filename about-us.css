@@ -3,10 +3,11 @@ html {
 }
 
 body {
-  width: 800px;
+  width: 100%;
   margin: 0 auto;
   padding-top: 5px;
   height: 100%;
+  background-color: #30965A;
 }
 header {
   background-color: #30965A;
@@ -17,9 +18,12 @@ header {
   display: block;
   width: 100%;
 }
+h1 {
+  font-size: 50px;
+}
 nav {
   line-height: 30px;
-  background-color: white;
+  background-color: #73B552;
   color: black;
   width: 100%;
   display: inline-block;
@@ -36,8 +40,15 @@ nav ul li {
 nav ul {
   text-align: center;
 }
+#introduction {
+  background-color: #30965A;
+  color: white;
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+}
 p {
-  font-size: 30px;
+  font-size: 25px;
   font-align: center;
 }
 .welder {
